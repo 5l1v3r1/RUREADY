@@ -1,0 +1,5 @@
+pyfiglet==0.8.post1
+requests==2.22.0
+bs4==0.0.1
+beautifulsoup4==4.8.2
+

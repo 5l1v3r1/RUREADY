@@ -647,7 +647,6 @@ products.php?catid=
 product.php?product_id=
 product.php?prodid=
 product.php?prodid=
-newsitem.php?newsID=
 newsitem.php?newsid=
 profile.php?id=
 ********s_in_area.php?area_id=

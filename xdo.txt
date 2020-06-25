@@ -1,3 +1,7 @@
+/wp-content/themes/traveler/
+/wp-content/themes/townhub/
+/wp-content/themes/citybook/
+/detail_popup.php?img=
 /2wayvideochat/index.php?r=  
 /elms/subscribe.php?course_id= /elms/subscribe.php?course_id= 
 /gen_confirm.php?errmsg= /gen_confirm.php?errmsg= 

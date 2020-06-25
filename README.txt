@@ -31,10 +31,3 @@ python3 ruready.py
 
 Using a VPN or TOR with this program may cause problems.
 Disable all of them for a perfect usage.
-
-python3 ruready.py
-
------------------------------------
-
-Using a VPN or TOR with this program may cause problems.
-Disable all of them for a perfect usage.

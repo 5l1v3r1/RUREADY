@@ -10,7 +10,7 @@
 Hi there, thanks for downloading this tool, I hope you'll enjoy it.
 This tool is my first Python project.
 
-R U READY is a vulnerability scanner which can find vulnerable websites
+R U READY is a web-crawler which can find potentially vulnerable websites
 to SQL Injection or XSS Cross Site Scripting around the Web.
 
 
@@ -24,6 +24,13 @@ pip3 install -r requirements.txt
 -----------------------------------
 
 Then, launch the program :
+
+python3 ruready.py
+
+-----------------------------------
+
+Using a VPN or TOR with this program may cause problems.
+Disable all of them for a perfect usage.
 
 python3 ruready.py
 

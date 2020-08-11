@@ -2,8 +2,6 @@
 (  _ \  (  )(  )  (  _ \( ___)  /__\  (  _ \( \/ )  (__ )
  )   /   )(__)(    )   / )__)  /(__)\  )(_) )\  /    (_/ 
 (_)\_)  (______)  (_)\_)(____)(__)(__)(____/ (__)    (_) 
-   
-							V.2.0
 
 (A TOOL BY UAYEB5 - 2020)
 
@@ -29,5 +27,5 @@ python3 ruready.py
 
 -----------------------------------
 
+This tool is not perfect yet, so there are a lot of false positives.
 Using a VPN or TOR with this program may cause problems.
-Disable all of them for a perfect usage.
